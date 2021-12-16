@@ -23,6 +23,9 @@ Referenced are many popular texts written for Java and Python, such as:
 
 ### Fundamental Data Structures
 
+- Arrays
+  - Static Arrays
+  - Dynamic Arrays
 - Lists
   - Singly-linked lists
   - Doubly-linked lists
