@@ -2,12 +2,13 @@
 
 <hr>
 
-The aim of this repository is to provide Gophers with how data structures and algorithms are implemented in the Go
-programming language. Implementations include standard library implementations as well as custom implementations (ex:
-Building a dynamic array from scratch)
+The aim of this repository is to provide Gophers with essential knowledge essential data structures and algorithms, and
+how they are implemented in the Go programming language. I've started this repository as a notepad for my own personal
+learning, but wanted to open source it for others who could benefit.
 
-When possible, all implementations are backed by unit tests to ensure correctness of the code. This mainly applies to
-the algorithms section, though, if a data structure has methods implented on it, then it will be backed by a test.
+When possible, all implementations are backed by unit tests to ensure the code functions as we expect. This mainly
+applies to the algorithms section, though, if a data structure has methods implemented on it, then it will be backed by
+a test.
 
 Referenced are many popular texts written for Java and Python, such as:
 
@@ -68,5 +69,4 @@ where I have acquired much of this information.
 
 - [Articles on the Golang github repo](https://github.com/golang/go/wiki/Articles#table-of-contents)
 - [Effective Go](https://go.dev/doc/effective_go#introduction)
-- [Digital Ocean](https://www.digitalocean.com/community/tutorials/understanding-arrays-and-slices-in-go)
 - [The Go Programming Language](https://www.gopl.io/)
