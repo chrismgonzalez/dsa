@@ -20,41 +20,53 @@ Referenced are many popular texts written for Java and Python, such as:
 
 <hr>
 
-### Data Structures
+### Fundamental Data Structures
 
-- Arrays
-    - Static Arrays
-    - Dynamic Arrays
 - Lists
-    - Singly-linked lists
-    - Doubly-linked lists
+  - Singly-linked lists
+  - Doubly-linked lists
 - Stacks/Queue's
-    - Stack
-    - Queue
-    - Priority Queue
+  - Stack
+  - Queue
+  - Priority Queue
+- Dictionaries
+- Heaps
+  - Min heaps
+  - Max heaps
 - Trees
-    - Binary Trees
-    - Binary Search Trees
-    - AVL Trees
-    - Red Black Trees
+  - Binary Trees
+  - Binary Search Trees
 - Graphs
 - Hash Maps
-- ...
 
 ### Algorithms
 
+- Strings
 - Sorting algorithms
-    - Bubble Sort
-    - Insertion Sort
-    - Quick Sort
+  - Bubble Sort
+  - Insertion Sort
+  - Quick Sort
 - Searching Algorithms
-    - Binary Search
-    - Depth First Search
-    - Breadth First Search
-- ...
+  - Binary Search
+  - Depth First Search
+  - Breadth First Search
+- Greedy Algorithms
+  - Dijkstra's Algorithm
 
 ### Algorithmic Problem Solving
 
 - Back tracking
 - Divide and Conquer
 - ...
+
+<hr>
+
+## References
+
+Much of what you see here is not my original work, though, much of the commentary is. Below is a list (with links) to
+where I have acquired much of this information.
+
+- [Articles on the Golang github repo](https://github.com/golang/go/wiki/Articles#table-of-contents)
+- [Effective Go](https://go.dev/doc/effective_go#introduction)
+- [Digital Ocean](https://www.digitalocean.com/community/tutorials/understanding-arrays-and-slices-in-go)
+- [The Go Programming Language](https://www.gopl.io/)
