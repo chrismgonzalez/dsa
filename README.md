@@ -23,6 +23,9 @@ Referenced are many popular texts written for Java and Python, such as:
 
 ### Fundamental Data Structures
 
+- [Arrays & Slices](datastructures/arraysandslices/arrays-and-slices.md)
+  - Static Arrays
+  - Dynamic Arrays (known as Slices)
 - Lists
   - Singly-linked lists
   - Doubly-linked lists
